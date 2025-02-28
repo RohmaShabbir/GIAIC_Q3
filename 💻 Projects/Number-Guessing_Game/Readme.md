@@ -28,7 +28,7 @@ This is a simple **Number Guessing Game** where the player has to guess a random
 2. Open a terminal or command prompt and navigate to the file's directory.
 3. Run the game using the command:
    ```bash
-   python number_guessing_game.py
+   main.py
    ```
 4. Enjoy guessing! 🎮
 
