@@ -1,7 +1,7 @@
 # Python Operators 
 
 ## 1. Arithmetic Operators
-Arithmetic operators are used for performing mathematical calculations on numbers.
+Arithmetic operators are used for performing mathematical  calculations on numbers.
 
 | Operator | Name          | Example (x=10, y=5) | Result |
 |----------|--------------|-----------------|--------|
