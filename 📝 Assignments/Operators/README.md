@@ -92,7 +92,7 @@ print("Python" in text)  # True
 ---
 
 ## 7. Bitwise Operators
-Bitwise operator work on binary numbers.
+Bitwise operators work on binary numbers.
 
 | Operator | Name | Example (`x=5`, `y=3`) | Result |
 |----------|------|-----------------|--------|
