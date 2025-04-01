@@ -76,7 +76,7 @@ print(x is z)  # False
 ---
 
 ## 6. Membership Operators
-These operators check whether a value exists in sequence (list, tuple, string).
+These operators check whether a value exists in a sequence (list, tuple, string).
 
 | Operator | Meaning | Example |
 |----------|---------|---------|
