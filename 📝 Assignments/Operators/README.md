@@ -16,7 +16,7 @@ Arithmetic operator are used for performing mathematical  calculations on number
 ---
 
 ## 2. Assignment Operators
-These operators are used to assign values to variables.
+These operator are used to assign values to variables.
 
 | Operator | Example | Same As |
 |----------|---------|---------|
