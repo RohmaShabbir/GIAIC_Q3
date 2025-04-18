@@ -32,7 +32,7 @@ These operator are used to assign values to variables.
 ---
 
 ## 3. Comparison Operators
-Comparison operators are used to compare two values.
+Comparison operator are used to compare two values.
 
 | Operator | Meaning | Example (`x = 10, y = 5`) | Result |
 |----------|---------|-----------------|--------|
