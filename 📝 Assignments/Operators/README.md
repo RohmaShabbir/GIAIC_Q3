@@ -16,7 +16,7 @@ Arithmetic operators are used for performing mathematical  calculations on numbe
 ---
 
 ## 2. Assignment Operators
-These operator are used to assign values to variables.
+These assignment operator are used to assign values to variables.
 
 | Operator | Example | Same As |
 |----------|---------|---------|
