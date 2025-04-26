@@ -1,0 +1,38 @@
+{
+    "cases": [
+      {
+        "title": "The Midnight Library Theft",
+        "clues": [
+          {
+            "question": "I speak without a mouth and hear without ears. What am I?",
+            "answer": "echo",
+            "points": 20
+          },
+          {
+            "question": "What has keys but can't open locks?",
+            "answer": "piano",
+            "points": 20
+          }
+        ],
+        "suspects": [
+          {
+            "name": "Mr. Black",
+            "statement": "I was reading in the lounge.",
+            "is_lying": true
+          },
+          {
+            "name": "Ms. Violet",
+            "statement": "I was cleaning the gallery.",
+            "is_lying": false
+          },
+          {
+            "name": "Dr. Green",
+            "statement": "I was fixing the light upstairs.",
+            "is_lying": false
+          }
+        ],
+        "criminal": "Mr. Black"
+      }
+    ]
+  }
+  
