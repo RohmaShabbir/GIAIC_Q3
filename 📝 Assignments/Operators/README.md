@@ -16,7 +16,7 @@ Arithmetic operator are used for performing mathematical  calculations on number
 ---
 
 ## 2. Assignment Operators
-These assignment operator are used to assign values to variables.
+These assignment operators are used to assign values to variables.
 
 | Operator | Example | Same As |
 |----------|---------|---------|
@@ -32,7 +32,7 @@ These assignment operator are used to assign values to variables.
 ---
 
 ## 3. Comparison Operators
-Comparison operator are used to compare two values.
+Comparison operators are used to compare two values.
 
 | Operator | Meaning | Example (`x = 10, y = 5`) | Result |
 |----------|---------|-----------------|--------|
