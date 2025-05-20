@@ -1,4 +1,3 @@
-Here's a professional `README.md` file for your SkillBridge project:
 
 ```markdown
 # SkillBridge - Freelancer Management System
@@ -26,7 +25,7 @@ SkillBridge is a **Python-based SaaS tool** designed to help freelancers manage 
 
 2. Install dependencies:
    ```bash
-   pip install streamlit pandas pillow
+   uv add streamlit pandas pillow
    ```
 
 3. Run the app:
@@ -124,5 +123,3 @@ MIT License - Free for educational and commercial use
 1. Create a simple logo (`skillbridge_logo.png`)
 2. Add screenshots in a `/screenshots` folder
 3. Customize the marketing details for your target audience
-
-Would you like me to add any specific technical documentation or usage examples?
